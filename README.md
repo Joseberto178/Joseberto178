@@ -12,7 +12,7 @@ Curso de HTML e CSS e JavaScript (em andamento)
 
 <h1>💪 Habilidades </h1>
 
-Linguagens: HTML | CSS | JavaScript (em aprendizado)Frameworks/Bibliotecas: React.js (em progresso)Ferramentas: Git | GitHub | VS Code | FigmaSoft Skills: Foco | Organização | Aprendizado contínuo | Criatividade
+Linguagens: HTML | CSS | JavaScript (em aprendizado) Frameworks/Bibliotecas: React.js (em progresso) Ferramentas: Git | GitHub | VS Code | FigmaSoft Skills: Foco | Organização | Aprendizado contínuo | Criatividade
 
 <h1>🚀 Projetos </h1>
 
