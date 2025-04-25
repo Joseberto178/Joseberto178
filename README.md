@@ -20,7 +20,7 @@ ferramentas: Git | GitHub | VS Code | FigmaSoft Skills: Foco | Organização | A
 
 <h1>🚀 Projetos </h1>
 
-📂 Repositório GitHub: github.com/Joseberto178Lá você encontra minhas landing pages, projetos pessoais e evoluções durante os estudos!
+📂 Repositório GitHub: https://github.com/Joseberto178 Lá você encontra minhas landing pages, projetos pessoais e evoluções durante os estudos!
 
  <h1>📬 Contato </h1>
 
