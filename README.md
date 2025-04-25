@@ -35,7 +35,7 @@ Email: josebertomendonca@gmail.com
 
 
 
-<br/>
+
 <br/>
 
 ### 📊 Estatísticas
