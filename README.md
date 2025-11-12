@@ -1,7 +1,7 @@
-<h1>👨🏻‍💻 Sobre mim</h1>
+<h1>👨🏻‍💻joseberto Mendonça </h1>
 
-<h1 > joseberto Mendonça </h1>
-<h3 >Desenvolvedor Front-end</h3>
+
+<h2 >Desenvolvedor Front-end</h2>
 
 ## 🚀 Sobre mim
 Olá! meu nome é joseberto, desenvolvedor front-end apaixonado por criar interfaces modernas, responsivas e eficientes.  
