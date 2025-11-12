@@ -1,7 +1,7 @@
 <h1>👨🏻‍💻 Sobre mim</h1>
 
-<h1 align="center">✨ Alberto Mendonça ✨</h1>
-<h3 align="center">Desenvolvedor Front-end</h3>
+<h1 > joseberto Mendonça ✨</h1>
+<h3 >Desenvolvedor Front-end</h3>
 <h1>🎓 Formação </h1>
 
 Análise e Desenvolvimento de Sistemas / Faculdade Maurício de Nassau
