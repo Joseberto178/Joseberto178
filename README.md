@@ -14,13 +14,16 @@ Busco sempre aprender novas tecnologias, melhorar meu código e desenvolver solu
 Análise e Desenvolvimento de Sistemas / Faculdade Maurício de Nassau
 
 
-<h1>💪 Habilidades </h1>
+## 📌 Tecnologias & Ferramentas
 
-Linguagens: HTML | CSS | JavaScript (em aprendizado) 
+### 🧩 Front-end
+- HTML5  
+- CSS3 (Flexbox, Grid, animações)  
+- JavaScript ES6+  
+- React  
+- React Native  
+- TypeScript  
 
-Frameworks/Bibliotecas: React.js (em progresso) 
-
-ferramentas: Git | GitHub | VS Code | FigmaSoft Skills: Foco | Organização | Aprendizado contínuo | Criatividade
 
 <h1>🚀 Projetos </h1>
 
