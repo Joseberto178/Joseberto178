@@ -1,9 +1,7 @@
 <h1>👨🏻‍💻 Sobre mim</h1>
 
-E aí! Eu sou o Joseberto, tenho 18 anos e tô trilhando meu caminho como Desenvolvedor Front-end. Atualmente curso Análise e Desenvolvimento de Sistemas na Faculdade Maurício de Nassau, e sou movido pela vontade de criar interfaces modernas, responsivas e com aquele toque de vida que faz a diferença.
-
-Tô sempre buscando aprender mais, evoluir minhas skills e encarar desafios que me tirem da zona de conforto.
-
+<h1 align="center">✨ Alberto Mendonça ✨</h1>
+<h3 align="center">Desenvolvedor Front-end</h3>
 <h1>🎓 Formação </h1>
 
 Análise e Desenvolvimento de Sistemas / Faculdade Maurício de Nassau
