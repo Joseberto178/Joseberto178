@@ -24,6 +24,12 @@ Análise e Desenvolvimento de Sistemas / Faculdade Maurício de Nassau
 - React Native  
 - TypeScript  
 
+### 🛠 Ferramentas & Boas Práticas
+- Git & GitHub  
+- Responsividade Mobile-first  
+- UI/UX básico  
+- Acessibilidade  
+
 
 <h1>🚀 Projetos </h1>
 
