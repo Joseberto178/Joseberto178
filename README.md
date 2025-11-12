@@ -1,12 +1,18 @@
 <h1>👨🏻‍💻 Sobre mim</h1>
 
-<h1 > joseberto Mendonça ✨</h1>
+<h1 > joseberto Mendonça </h1>
 <h3 >Desenvolvedor Front-end</h3>
+
+## 🚀 Sobre mim
+Olá! meu nome é joseberto, desenvolvedor front-end apaixonado por criar interfaces modernas, responsivas e eficientes.  
+Atualmente estudo **JavaScript, React, React Native e TypeScript**, focando em construir projetos profissionais e evoluir minhas habilidades no ecossistema web.
+
+Busco sempre aprender novas tecnologias, melhorar meu código e desenvolver soluções que entreguem uma ótima experiência para o usuário.
+
 <h1>🎓 Formação </h1>
 
 Análise e Desenvolvimento de Sistemas / Faculdade Maurício de Nassau
 
-Curso de HTML e CSS e JavaScript (em andamento)
 
 <h1>💪 Habilidades </h1>
 
