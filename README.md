@@ -19,10 +19,8 @@ Análise e Desenvolvimento de Sistemas / Faculdade Maurício de Nassau
 ### 🧩 Front-end
 - HTML5  
 - CSS3 (Flexbox, Grid, animações)  
-- JavaScript ES6+  
-- React  
-- React Native  
-- TypeScript  
+- JavaScript 
+  
 
 ### 🛠 Ferramentas & Boas Práticas
 - Git & GitHub  
